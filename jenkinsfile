@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git 'https://github.com/Anjuna661/parking_frontend.git'         
+        git 'https://github.com/srinivas775/jenkins_1.git'         
 
       }
 
